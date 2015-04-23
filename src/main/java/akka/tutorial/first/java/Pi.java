@@ -18,9 +18,7 @@ public class Pi {
     pi.calculate(4, 10000, 10000);
   }
  
-  static class Calculate {
-  }
- 
+
   static class Work {
     private final int start;
     private final int nrOfElements;
