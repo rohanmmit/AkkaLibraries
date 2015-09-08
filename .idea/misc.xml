@@ -20,6 +20,11 @@
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/src/main/resources/common.conf" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/local-configuration.conf" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/remote_application.conf" />
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
