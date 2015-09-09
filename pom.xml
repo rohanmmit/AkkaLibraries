@@ -22,6 +22,7 @@
             <groupId>com.typesafe.akka</groupId>
             <artifactId>akka-remote</artifactId>
             <version>2.0.1</version>
+
         </dependency>
     </dependencies>
  
@@ -30,6 +31,8 @@
             <id>typesafe</id>
             <name>Typesafe Repository</name>
             <url>http://repo.typesafe.com/typesafe/releases/</url>
+            <releases><enabled>true</enabled><updatePolicy>always</updatePolicy></releases>
+            <snapshots><enabled>true</enabled><updatePolicy>always</updatePolicy></snapshots>
         </repository>
     </repositories>
  
