@@ -1,17 +1,7 @@
 package akka.tutorial.first.java.remote;
 
 import akka.actor.*;
-import com.sun.xml.internal.ws.policy.privateutil.PolicyUtils;
-import com.typesafe.config.Config;
-import com.typesafe.config.ConfigFactory;
 
-import java.io.File;
-import java.nio.channels.AcceptPendingException;
-import java.util.ArrayList;
-
-/**
- * Created by rohanm on 4/29/15.
- */
 public class RemoteActor extends UntypedActor {
 
     @Override
